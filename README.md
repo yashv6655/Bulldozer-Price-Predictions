@@ -11,4 +11,4 @@
 - Scikit-Learn
 - Seaborn
 
-#### More Info About The Data: https://www.kaggle.com/c/bluebook-for-bulldozers
+#### More Info About The Data: https://www.kaggle.com/c/bluebook-for-bulldozers/data
