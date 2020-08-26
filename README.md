@@ -9,5 +9,6 @@
 - Numpy
 - Matplotlib
 - Scikit-Learn
+- Seaborn
 
-### More Info About The Data Sets: (https://www.kaggle.com/c/bluebook-for-bulldozers)[https://www.kaggle.com/c/bluebook-for-bulldozers]
+#### More Info About The Data Sets: (https://www.kaggle.com/c/bluebook-for-bulldozers)
